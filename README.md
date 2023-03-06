@@ -7,6 +7,8 @@ A Basic SolidJS App with CRUD operations
 - **Client:** SolidJS
 - **Server:** Node
 - **Styling**: Styled Components
+- **Router**: Solid App Router
+- **Store data**: Local Storage
 
 ### Concepts covered
 
